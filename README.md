@@ -32,7 +32,7 @@ python3 -m venv env
   ```
 3. Clone the repository to your local machine:
 ```
-git clone https://github.com/sankethchebbi/tddGPT.git
+git clone https://github.com/imshahidmehmood/tddGPT
 
 ```
 4. Navigate to the project directory:
